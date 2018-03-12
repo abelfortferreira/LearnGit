@@ -36,3 +36,8 @@ Abra o terminal e digite `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSI
 
 Se tudo deu certo, agora seu repositório está disponível no seu computador (local), você pode digitar ls para listar os arquivos, para entender melhor como navegar no terminal [este tutorial ensina CLI de forma prática](http://rik.smith-unna.com/command_line_bootcamp/?id=jxxppxvp5ek), então navegue para dentro da pasta utilizando o comando `cd LearnGit`
 
+## Edite o arquivo
+Dentro do seu clone, existe um arquivo chamado `aboutClass00.md`, abra-o utilizando um editor de texto, o próprio GitHub mantém o [Atom](https://atom.io/), um editor de texto Open Source, então observe as instruções do arquivo e os exemplos inseridos, siga os passos e aplique você mesmo neste arquivo. Perceba que neste arquivo os textos devem estar em Inglês, pois os mesmos podem ser utilizados futuramente para outros propósitos. 
+
+## Faça um commit e um Pull Request
+Então agora que você salvou suas mudanças no editor de texto, no terminal digite: `git add aboutClass00.md` para adicionar o arquivo às mudanças a serem commitadas, e então digite: `git commit -m "Adding myself to aboutClass00.md"` para adicionar sua mensagem de modificação do arquivo, por fim digite: `git push` para enviar seus commits locais (no seu computador) para o remoto (no servidor do GitHub).
