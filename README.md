@@ -41,3 +41,9 @@ Dentro do seu clone, existe um arquivo chamado `aboutClass00.md`, abra-o utiliza
 
 ## Faça um commit e um Pull Request
 Então agora que você salvou suas mudanças no editor de texto, no terminal digite: `git add aboutClass00.md` para adicionar o arquivo às mudanças a serem commitadas, e então digite: `git commit -m "Adding myself to aboutClass00.md"` para adicionar sua mensagem de modificação do arquivo, por fim digite: `git push` para enviar seus commits locais (no seu computador) para o remoto (no servidor do GitHub).
+
+# Dúvidas? 
+É natural que dúvidas surjam durante o processo, então para as eventuais dúvidas que possam surgir temos uma [thread issue](https://github.com/Abduzidos/LearnGit/issues/1) aberta onde você pode perguntar por lá e o mais rápido possível um colega deverá responder.
+
+Prefere de outra forma? Você pode me procurar pelos corredores do Cesar School ou através do Slack!
+
