@@ -1,4 +1,4 @@
-# About Class 00 
+# About Class 00
 The first class of Cesar School graduation
 
 # Aplication
@@ -26,13 +26,28 @@ Talk something that you want here
 
 # Ciência da Computação
 
-## Otacilio Saraiva Maia Neto 
+## Jonathan Coutinho Alves Santos
+- I'm a civil engineer.
+- I love technology .
+- I very excited about CS and want to learn as much as I can.
+
+### My interests
+- Artificial Intelligence
+- IoT
+- Encryption
+- Surf
+
+### Get in touch
+- Cesar email: jcas@cesar.school
+- GitHub profile :octocat: :@jsantos93
+
+## Otacilio Saraiva Maia Neto
 - I really enjoy participating in communities and meetups
 - I participated in 4 World Robotics competitions at Robocup Federation
 - I am a maintainer of an [Open Source project](https://github.com/OtacilioN/Brasilino)
 - I am an electronics technician
 
-### My interests 
+### My interests
 - Arduino and Open Source
 - Robots and ChatBots
 - Hackathons and Public speaking
