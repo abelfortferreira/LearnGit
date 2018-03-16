@@ -47,7 +47,9 @@ Após ter feito um push com sucesso você deverá ver o seu commit no seu fork, 
 
 # Links Úteis
 [Contribuindo para um projeto](https://git-scm.com/book/pt-br/v1/Git-Distribu%C3%ADdo-Contribuindo-Para-Um-Projeto)
+
 [Do clone ao Pull Request](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/)
+
 [Lista de comandos](https://www.codecademy.com/articles/command-line-commandshttps://www.codecademy.com/articles/command-line-commands)
 
 # Dúvidas? 
