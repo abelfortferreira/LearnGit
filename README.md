@@ -39,8 +39,16 @@ Se tudo deu certo, agora seu repositório está disponível no seu computador (l
 ## Edite o arquivo
 Dentro do seu clone, existe um arquivo chamado `aboutClass00.md`, abra-o utilizando um editor de texto, o próprio GitHub mantém o [Atom](https://atom.io/), um editor de texto Open Source, então observe as instruções do arquivo e os exemplos inseridos, siga os passos e aplique você mesmo neste arquivo. Perceba que neste arquivo os textos devem estar em Inglês, pois os mesmos podem ser utilizados futuramente para outros propósitos. 
 
-## Faça um commit e um Pull Request
-Então agora que você salvou suas mudanças no editor de texto, no terminal digite: `git add aboutClass00.md` para adicionar o arquivo às mudanças a serem commitadas, e então digite: `git commit -m "Adding myself to aboutClass00.md"` para adicionar sua mensagem de modificação do arquivo, por fim digite: `git push` para enviar seus commits locais (no seu computador) para o remoto (no servidor do GitHub).
+## Faça um commit
+Então agora que você salvou suas mudanças no editor de texto, no terminal digite: `git add aboutClass00.md` para adicionar o arquivo às mudanças a serem commitadas, e então digite: `git commit -m "Adding myself to aboutClass00.md"` para adicionar sua mensagem de modificação do arquivo, por fim digite: `git push` para enviar seus commits locais (no seu computador) para o remoto (no servidor do GitHub), então digite o seu nome de usuário do GitHub e em seguida sua senha.
+
+## Faça um Pull Request
+Após ter feito um push com sucesso você deverá ver o seu commit no seu fork, então basta clicar no botão de [Pull Request](https://help.github.com/articles/about-pull-requests/) e submeter para a avaliação.
+
+# Links Úteis
+[Contribuindo para um projeto](https://git-scm.com/book/pt-br/v1/Git-Distribu%C3%ADdo-Contribuindo-Para-Um-Projeto)
+[Do clone ao Pull Request](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/)
+[Lista de comandos](https://www.codecademy.com/articles/command-line-commandshttps://www.codecademy.com/articles/command-line-commands)
 
 # Dúvidas? 
 É natural que dúvidas surjam durante o processo, então para as eventuais dúvidas que possam surgir temos uma [thread issue](https://github.com/Abduzidos/LearnGit/issues/1) aberta onde você pode perguntar por lá e o mais rápido possível um colega deverá responder.
