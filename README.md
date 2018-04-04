@@ -50,7 +50,7 @@ Após ter feito um push com sucesso você deverá ver o seu commit no seu fork, 
 
 [Do clone ao Pull Request](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/)
 
-[Lista de comandos](https://www.codecademy.com/articles/command-line-commandshttps://www.codecademy.com/articles/command-line-commands)
+[Lista de comandos](https://www.codecademy.com/articles/command-line-commands)
 
 # Dúvidas? 
 É natural que dúvidas surjam durante o processo, então para as eventuais dúvidas que possam surgir temos uma [thread issue](https://github.com/Abduzidos/LearnGit/issues/1) aberta onde você pode perguntar por lá e o mais rápido possível um colega deverá responder.
